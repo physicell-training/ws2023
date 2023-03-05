@@ -1,5 +1,5 @@
-# 2022 PhysiCell Hackathon and Workshop
-Quick navigation: [[Learn](#what-youll-learn)] [[Do](#what-youll-do)] [[Benefits](#Benefits-and-prizes-for-accepted-hackathon-participants)] [[Agenda and Materials](#agenda-and-materials)] [[Outcomes](#expected-outcomes)] 
+# 2023 PhysiCell Hackathon and Workshop
+Quick navigation: [[Learn](#what-youll-learn)] [[Do](#what-youll-do)] [[Benefits](#benefits-and-prizes-for-accepted-hackathon-participants)] [[Apply](#apply-today)] [[Agenda and Materials](#agenda-and-materials)] [[Outcomes](#expected-outcomes)] 
 
 PhysiCell is an open source, agent-based simulation framework for simulating complex multicellular systems. It simulates the chemical environment (diffusion of substrates and signaling factors), individual cell behaviors, and cell-cell interactions. It can be tailored to a broad variety of problems in cancer, infectious diseases, developmental biology, immunology, micro-ecosystems, and more.
 
@@ -10,17 +10,22 @@ The workshop is open to all without participation limits. The hackathon is close
 ## What you’ll learn: 
 * Build multiscale agent-based multicellular simulations in PhysiCell
 * Integrate SBML network models in PhysiCell agents
-* Share models online on nanoHUB
+* Early access to next-generation "rules-based" modeling techniques
 
 ## What you’ll do
 * Attend morning sessions to learn PhysiCell
 * Form a team in afternoon hackathon sessions to build a model or a tool
 * Join and help drive the PhysiCell community as future leaders
 
-## Benefits and prizes for accepted hackathon participants!
+## Benefits and prizes for accepted hackathon participants
 * Direct mentoring by experienced modelers
 * PhysiCell swag mailed ot your home (upon request)
 * Awards for the best model and best tool
+
+## Apply today
+Please complete our [online application](https://forms.gle/S8wTHfibHHpLvfjX7) by May 31, 2023 for best consideration. 
+
+Link: [https://forms.gle/S8wTHfibHHpLvfjX7](https://forms.gle/S8wTHfibHHpLvfjX7)
 
 ## Agenda and Materials
 The full agenda and materials--including setup guides--are [here](agenda.md). 
@@ -38,10 +43,10 @@ The full agenda and materials--including setup guides--are [here](agenda.md).
 We coordinated with other workshops to prevent overlapping schedules. You may be interested in:
 
 * Herbert Sauro’s Network Modeling Virtual Summer School and Hackathon
-   * July 18-24
+   * June 2023
    * Learn to build network models in Python, such as metabolism and signaling.
    * https://reproduciblebiomodels.org/dissemination-training/workshops/
 *  James Glazier’s CompuCell3D Workshop and Hackathon
-   * August 1-7
+   * Early August 2023
    * Learn to build multiscale, multicellular models in CompuCell3D
-   * https://compucell3d.org/Workshop21
+   * https://compucell3d.org/Workshop23
