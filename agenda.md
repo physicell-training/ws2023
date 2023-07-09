@@ -5,8 +5,6 @@ This is the official, full agenda for the 2023 PhysiCell Workshop and Hackathon.
 
 **last updated:** Sunday, July 9, 2023
 
-// Events marked "H" are exclusive to accepted hackathon participants. All others are publicly accessible. Wherever possible, we will post full slides and video recordings for all sessions.
-
 ## Pre-Workshop Materials and Activities 
 To arrive prepared, all workshop participants should work through the pre-workshop materials prior to Monday, July 24th. 
 
@@ -52,11 +50,12 @@ We will use Gather as our virtual conference space, particularly to help navigat
 * Video: [click here]()
 
 ### 4 Minute Lighting Self Introduction 
-Template slide deck to introduce yourself in the virtual social hours. 
-* Slides: [click here]()
+User our template to prepare a short self-introduction, including your ideas for PhysiCell hackathon projects. 
+[Email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) before the Sunday virtual social hour. 
+* Slide Template (PPTX): [click here]()
 
 ### Meet your hackathon colleagues at virtual socials (optional) 
-#### Sunday, July 23 (4:00-5:30 pm US Eastern Time) Virtual Social (H)
+#### Sunday, July 23 (4:00-6:00 pm US Eastern Time) Virtual Social (H)
 Introduce yourself and meet your fellow participants in this virtual social. You will receive the link by email and in Gather. 
 
 Please prepare your 4 minute mini introduction using this [template]()
