@@ -82,7 +82,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 Learn about cell phenotype in PhysiCell. Modulating cell phenotype in response to microenvironmental and other signals is key to agent-based modeling in PhysiCell. We will also introduce cell signal and behavior dictionaries for more intuitive model development. 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_03/slides/PhysiCell_ws2022_Session03.pdf)
 * Video: [click here](https://www.youtube.com/watch?v=oTMmLz6kTF0)
-
+ 
 ### 14:30-15:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
