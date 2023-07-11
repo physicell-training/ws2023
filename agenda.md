@@ -11,21 +11,18 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 ### Set up PhysiCell 
 #### MacOS Setup
 * Presented by John Metzcar
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_macOS_setup.pdf)
-* Video: [click here](https://youtu.be/Sq9nfKS5U0E)
+* Slides: [click here]()
+* Video: Coming soon
 
 #### Windows Setup
 * Presented by Furkan Kurtoglu
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
-* Video: [click here](https://youtu.be/hIP4JUrViRA)
-  
+* Slides: [click here]()
+* Video: Coming soon
+
 #### Linux Setup
 * Presented by Elmar Bücher 
 * Slides: [click here](https://github.com/physicell-training/ws2023/blob/main/setup/PhysiCell_ws2023_Linux_setup.pdf)
-* Video: [click here](https://youtu.be/hIP4JUrViRA)
-
-#### Further help
-You can get setup help in our [dedicated Slack workspace](https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA). 
+* Video: Coming soon
 
 ### Join the community! 
 #### Join the PhysiCell slack workspace 
@@ -38,31 +35,41 @@ We will use Gather as our virtual conference space, particularly to help navigat
 
 ### Watch introductory materials
 #### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
-* Slides: [click here]()
-* Video: [click here]()
+* Slides: 
+* Video: 
 
 #### Session 1: Working with Projects in PhysiCell (approx 20 min)
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_01/slides/PhysiCell_ws2022_Session01.pdf)
-* Video: [click here](https://youtu.be/fP7-n_RlITU) 
-
-#### Session 2: Working with PhysiCell Studio (approx 20 min)
-* Slides: [click here]()
-* Video: [click here]()
+* Slides:  
+* Video: 
 
 ### 4 Minute Lighting Self Introduction 
 User our template to prepare a short self-introduction, including your ideas for PhysiCell hackathon projects. 
 [Email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) before the Sunday virtual social hour. 
-* Slide Template (PPTX): [click here]()
+* Slide Template (PPTX): [click here](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
 ### Meet your hackathon colleagues at virtual socials (optional) 
 #### Sunday, July 23 (4:00-6:00 pm US Eastern Time) Virtual Social (H)
 Introduce yourself and meet your fellow participants in this virtual social. You will receive the link by email and in Gather. 
+[Email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) in advance if at all possible. 
 
-Please prepare your 4 minute mini introduction using this [template]()
+Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
+
+### Asynchronous. Session 2: Working with PhysiCell Studio (15 min)
+* Slides: [click here]()
+* Video: [click here]()
+
+To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
 
 -----
 
-## Monday, July 25: Day 1 (All times US Eastern)
+## Monday, July 24: Day 1 (All times US Eastern)
+
+### Asynchronous. Session 2: Working with PhysiCell Studio (15 min)
+* Slides: [click here]()
+* Video: [click here]()
+
+To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
+
 ### 11:00-11:10. Welcome and Introduction (H)
 Welcome participants, give the overall format, and discuss goals for the week. 
 
