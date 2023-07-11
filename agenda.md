@@ -56,24 +56,24 @@ Introduce yourself and meet your fellow participants in this virtual social. You
 
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
-### Asynchronous. Session 2: Working with PhysiCell Studio (15 min)
+### Asynchronous Sessions for Day 1. 
+To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
+#### Session 2: Working with PhysiCell Studio (15 min)
 * Presenter: Randy Heiland
 * Slides:  
 * Video:  
-
-To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
 
 -----
 
 ## Monday, July 24: Day 1 (All times US Eastern)
 
-### Asynchronous. Session 2: Working with PhysiCell Studio (15 min) - Randy Heiland
+### Asynchronous Sessions for Day 1. 
+To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
+#### Session 2: Working with PhysiCell Studio (15 min)
 * Presenter: Randy Heiland
 * Slides:  
-* Video:  
-
-To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
-
+* Video:
+  
 ### 11:00-11:10. Welcome and Introduction (H)
 Welcome participants, give the overall format, and discuss goals for the week. 
 * Presenter: Paul Macklin
