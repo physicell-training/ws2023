@@ -20,9 +20,8 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 * Video: Coming soon
 
 #### Linux Setup 
-* Presenter: Elmar Bücher 
+* Presenter: Elmar Bucher 
 * Slides: [click here](https://github.com/physicell-training/ws2023/blob/main/setup/PhysiCell_ws2023_Linux_setup.pdf)
-* Video:  
 
 ### Join the community! 
 #### Join the PhysiCell slack workspace 
@@ -161,7 +160,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 
 ### 13:10-14:00. Session 7: Working with PhysiCell Data in Python with Data Loader
 Learn to load, manipulate, and explore full PhysiCell outputs in Python using PhysiCell Data Loader. 
-* Presenter: Elmar Bücher
+* Presenter: Elmar Bucher
 * Slides:
 * Code:
 * Video:
