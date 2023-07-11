@@ -46,13 +46,13 @@ We will use Gather as our virtual conference space, particularly to help navigat
 
 ### 4 Minute Lighting Self Introduction 
 User our template to prepare a short self-introduction, including your ideas for PhysiCell hackathon projects. 
-[Email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) before the Sunday virtual social hour. 
+[Submit slides by email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) before the Sunday virtual social hour. 
 * Slide Template (PPTX): [click here](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
 ### Meet your hackathon colleagues at virtual socials (optional) 
 #### Sunday, July 23 (4:00-6:00 pm US Eastern Time) Virtual Social (H)
 Introduce yourself and meet your fellow participants in this virtual social. You will receive the link by email and in Gather. 
-[Email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) in advance if at all possible. 
+[Submit slides by email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) in advance if at all possible. 
 
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
@@ -120,25 +120,40 @@ Wrap up the day's activities, and outline plans for day 2.
 ### 17:45-???. Virtual Social (Optional) (H). 
 Please use Gathe to continue getting to know your fellow participants. 
 
----
-ciut 
+### Advanced / Asynchronous / Optional
+These are optional C++ based sessions intended for advanced users and PhysiCell developers. 
 
-### Asynchronous. Session 5: Boundary Conditions, Custom Variables, Parameters, and C++ searches
+#### Advanced Session 1: Boundary Conditions, Custom Variables, Parameters, and C++ searches
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
-* Slides:  [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_05/slides/PhysiCell_ws2022_Session05.pdf)
-* Video: [click here](https://www.youtube.com/watch?v=SaiV_7aQayY)
+* Presenter: Aneequa Sundus 
+* Slides:
+* Video:
 
+#### Advanced Session 2: PhysiCell Functions
+* Presenter: Heber Rocha 
+* Slides:
+* Video:
+
+#### Advanced Session 3: PhysiCell Coloring Functions
+* Presenter: John Metzcar
+* Slides:
+* Video:
+
+  
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
+
 -----
 
-## Tuesday, July 26: Day 2 (All times US Eastern)
+## Tuesday, July 25: Day 2 (All times US Eastern)
 
+/*
 ### Asynchronous. Session 5: Boundary Conditions, Custom Variables, Parameters, and C++ searches
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
 * Slides:  [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_05/slides/PhysiCell_ws2022_Session05.pdf)
 * Video: [click here](https://www.youtube.com/watch?v=SaiV_7aQayY)
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
+*/
 
 ### 11:00-11:10. Welcome and Day's Goals (H)
 Discuss the day's goals.
