@@ -16,7 +16,7 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 
 #### Windows Setup  
 * Presenter: Furkan Kurtoglu
-* Slides:  
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/setup/PhysiCell_ws2023_Windows_setup.pdf) 
 * Video: Coming soon
 
 #### Linux Setup 
