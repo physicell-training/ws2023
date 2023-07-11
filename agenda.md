@@ -166,17 +166,6 @@ Learn to load, manipulate, and explore full PhysiCell outputs in Python using Ph
 * Code:
 * Video:
 
-
-/* 
-orphaned 
-### 12:45-14:00. Session 7: Cell-Cell Interactions in PhysiCell
-Learn how to make cells communicate by chemical and contact interactions. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_07/slides/PhysiCell_ws2022_Session07.pdf)
-* Code: [click here](https://github.com/physicell-training/ws2022/tree/main/sessions/session_07/code)
-* Zoom: https://iu.zoom.us/j/83603978310
-
-*/
-
 ### 14:00-14:30. Break
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
@@ -237,8 +226,6 @@ Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institu
 * Slides:
 * Video: 
 
-
-
 ### 11:00-11:05. Welcome and Day's Goals 
 Discuss the day's goals
 * Facilitator: Paul Macklin
@@ -280,14 +267,31 @@ Please use Gather to continue getting to know your fellow participants.
 ### 18:00-18:30. Feedback on instructional materials (optional)
 Give feedback on improvements to the Day 0-3 training materials. 
 
+### Advanced / Asynchronous / Optional
+These are optional C++ based sessions intended for advanced users and PhysiCell developers. 
+
+#### Advanced Session 4: Intracellular with libRoadrunner (introduction)
+Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+* Presenter: Furkan Kurtoglu
+* Slides:
+* Video:
+
+#### Advanced Session 5: Cell-Cell Interactions in PhysiCell
+Learn how to make cells communicate by chemical and contact interactions. 
+* Presenter: Paul Macklin
+* Slides:
+* Code:
+* Video: 
+
+#### Advanced Session 6: Sharing PhysiCell Models on NanoHub
+Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
+* Presenter: Randy Heiland
+* Slides:
+* Code:
+* Video: 
+
 
 /* start here */ 
-
-/*
-### 13:00-13:45. Session 12: Intracellular with libRoadrunner (introduction)
-Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
-* Zoom: message Paul Macklin or Furkan Kurtoglu for details
-*/
 
 
 ### 13:45-14:00. Break (H)
@@ -295,71 +299,82 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 
 
 
-
-/*
-### 14:00-15:00. Session 13: Intracellular with libRoadrunner (interactive demo)
-Continuing learning how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
-* Zoom: message Paul Macklin or Furkan Kurtoglu for details
-
-
-### Asynchronous. Session 14: Sharing PhysiCell models on nanoHUB (Optional)
-Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
-
-### Asynchronous. Session 15: Additional cell contact examples
-See additional examples of more advanced cell-cell contacts and interactions, such as spring interactions and juxtacrine signaling. 
-
-To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 4 activities. 
-*/
-
 -----
 
-## Thursday, July 28: Day 4 (All times US Eastern)
+## Thursday, July 27: Day 4 (All times US Eastern)
 
-### Asynchronous. Session 15: Additional cell contact examples
-See additional examples of more advanced cell-cell contacts and interactions, such as spring interactions and juxtacrine signaling. 
-
-To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 4 activities. 
-
-### 11:00-11:05. Welcome and Day's Goals (H)
+### 11:00-11:05. Welcome and Day's Goals
 Discuss the day's goals
+* Facilitator: Paul Macklin
 
-### 11:05-16:00. Team Time (H)
+### 11:05-12:00. Advanced Session 7: Intracellular with libRoadrunner (interactive demo) (optional)
+Continuing learning how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. **This session is optional.**
+* Dependencies:
+  * Advanced Session 1 
+  * Advanced Session 2
+  * Advanced Session 4
+* Presenter: Furkan Kurtoglu
+* Slides:
+* Code:
+* Video: 
+
+### 12:00-10:30. Team Time 2
 Work with your team in Gather / Zoom. 
 
-### 16:00-18:00. Present Preliminary Results (H) 
+### 16:00-18:00. Present Preliminary Results
 Share your team's preliminary results in Gather / Zoom. 
+* Facilitator: Paul Macklin
+  
+### 18:00-18:10. Wrap-Up
+* Presenter: Paul Macklin 
 
-### 18:00-18:10. Wrap-Up (H)
-
-### 18:10-???. Virtual Social (Optional) (H). 
+### 18:10-???. Virtual Social (Optional)
 Please use Gather to continue getting to know your fellow participants. 
+
+### 18:30-19:30. PhysiCell Governance (optional and by invitation only)
+Discuss transition to a community governance model. 
 
 -----
 
-## Friday, July 30: Day 5 (All times US Eastern)
+## Friday, July 28: Day 5 (All times US Eastern)
 
-### 11:00-11:05. Welcome and Day's Goals (H)
+### 11:00-11:05. Welcome and Day's Goals
 Discuss the day's goals
+* Presenter: Paul Macklin
+  
+### 12:05-13:00. Session 11: PhysiCell Modeling Example and Warm-Up 2
+We present a full modeling example as a daily warmup. 
+* Presenter: TBD
+* Slides:
+* Video:
 
-### 11:05-17:00. Team Time (H) 
+### 13:00-18:15. Team Time 3.  
 Work with your team in Gather / Zoom. Schedule breaks on your own as needed. 
 
-### 17:00-17:30. Day 5 wrap-up (H)
+### 18:15-18:30. Day 5 wrap-up
 Discuss the day's progress and set the stage for group presentations. 
 
-### 17:30-???. Virtual Social (Optional) (H). 
+### 18:30-???. Virtual Social (Optional). 
 Please use Gather to continue getting to know your fellow participants. 
+
+### 18:30-19:30. PhysiCell Governance (optional and by invitation only)
+Discuss transition to a community governance model. Session held as needed. 
 
 -----
 
-## Saturday, July 30: Final Presentations (All times US Eastern)
-Brielfy present your team's project results for the community and for consideration for prizes. Detailed schedule TBA. 
+## Saturday, July 29: Final Presentations (All times US Eastern)
+
+### 11:00-14:00. Final Team Presentations.  
+Present your team's project results for the community and for feedback and scoring. Detailed schedule TBA. 
 
 25 minute presetation, with 5 minutes of Q&A. 
 
-### Presentation templates: 
+#### Presentation templates: 
 Adapt as you see best:
-* Model presentation template [click here](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws2022_final_presentation_template(model).pptx)
-* Tool presentation template [click here](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell_ws2022_final_presentation_template(tool).pptx) 
+* Model presentation template:
+* Tool presentation template:
+* 
+### 14:00-14:30. Judges' Discussion. 
 
-### 14:30-15:00 Announce results and farewell (H) 
+### 14:30-15:00. Announce results and farewell
+* Facilitator: Paul Macklin
