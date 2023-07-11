@@ -21,7 +21,7 @@ To arrive prepared, all workshop participants should work through the pre-worksh
   
 #### Linux Setup
 * Presented by Elmar Bücher 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/setup/PhysiCell_ws2022_Windows_setup.pdf) 
+* Slides: [click here](https://github.com/physicell-training/ws2023/blob/main/setup/PhysiCell_ws2023_Linux_setup.pdf)
 * Video: [click here](https://youtu.be/hIP4JUrViRA)
 
 #### Further help
