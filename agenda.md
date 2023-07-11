@@ -9,20 +9,20 @@ This is the official, full agenda for the 2023 PhysiCell Workshop and Hackathon.
 To arrive prepared, all workshop participants should work through the pre-workshop materials prior to Monday, July 24th. 
 
 ### Set up PhysiCell 
-#### MacOS Setup
-* Presented by John Metzcar
-* Slides: [click here]()
+#### MacOS Setup  
+* Presenter: John Metzcar
+* Slides:  
 * Video: Coming soon
 
-#### Windows Setup
-* Presented by Furkan Kurtoglu
-* Slides: [click here]()
+#### Windows Setup  
+* Presenter: Furkan Kurtoglu
+* Slides:  
 * Video: Coming soon
 
-#### Linux Setup
-* Presented by Elmar Bücher 
+#### Linux Setup 
+* Presenter: Elmar Bücher 
 * Slides: [click here](https://github.com/physicell-training/ws2023/blob/main/setup/PhysiCell_ws2023_Linux_setup.pdf)
-* Video: Coming soon
+* Video:  
 
 ### Join the community! 
 #### Join the PhysiCell slack workspace 
@@ -34,11 +34,13 @@ We use a dedicated Slack workspace for annoucements, troubleshooting, and other 
 We will use Gather as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details will be sent by email to full participants. 
 
 ### Watch introductory materials
-#### Session 0: Introduction to agent-based modeling and PhysiCell (approx 40 min)
+#### Session 0: Introduction to agent-based modeling and PhysiCell (approx 45 min)
+* Presenter: Paul Macklin
 * Slides: 
 * Video: 
 
-#### Session 1: Working with Projects in PhysiCell (approx 20 min)
+#### Session 1: Working with Projects in PhysiCell (approx 15 min)
+* Presenter: Paul Macklin
 * Slides:  
 * Video: 
 
@@ -55,8 +57,9 @@ Introduce yourself and meet your fellow participants in this virtual social. You
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
 ### Asynchronous. Session 2: Working with PhysiCell Studio (15 min)
-* Slides: [click here]()
-* Video: [click here]()
+* Presenter: Randy Heiland
+* Slides:  
+* Video:  
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
 
@@ -64,52 +67,61 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ## Monday, July 24: Day 1 (All times US Eastern)
 
-### Asynchronous. Session 2: Working with PhysiCell Studio (15 min)
-* Slides: [click here]()
-* Video: [click here]()
+### Asynchronous. Session 2: Working with PhysiCell Studio (15 min) - Randy Heiland
+* Presenter: Randy Heiland
+* Slides:  
+* Video:  
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
 
 ### 11:00-11:10. Welcome and Introduction (H)
 Welcome participants, give the overall format, and discuss goals for the week. 
-
-### 11:10-12:15. Session 2: First PhysiCell Dive
-Give an introduction to modeling with PhysiCell using built-in sample projects, including basic data visualization and data access in Jupyter notebooks. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/slides/PhysiCell_ws2022_Session02.pdf)
+* Presenter: Paul Macklin
+  
+### 11:10-12:30. Session 3: PhysiCell Signals, Behaviors, and Grammar
+Introduce the standardized (reference) behavior models, signals, and a behavior grammar at the core of PhysiCell's new rules-based modeling approach. 
+* Presenter: Paul Macklin
+* Slides:
 * Code:
-  * Example 1 config file: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_1/PhysiCell_settings.xml)
-  * Example 2 config file: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/example_2/PhysiCell_settings.xml)
-  * Jupyter notebook: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_02/code/Session2_heterogeneity.ipynb)
-* Video: [click here](https://www.youtube.com/watch?v=e5E4xMzrJFI)
+* Video: 
 
-### 12:15-13:00. Break (H)
+### 12:30-13:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 13:00-14:30. Session 3: Introduction to Cell Phenotype in PhysiCell. 
-Learn about cell phenotype in PhysiCell. Modulating cell phenotype in response to microenvironmental and other signals is key to agent-based modeling in PhysiCell. We will also introduce cell signal and behavior dictionaries for more intuitive model development. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_03/slides/PhysiCell_ws2022_Session03.pdf)
-* Video: [click here](https://www.youtube.com/watch?v=oTMmLz6kTF0)
- 
+### 13:00-14:30. Session 4: First PhysiCell Model 
+We will create, run, visualize, and explore a full model of oxygen-dependent tumor growth with mechanofeedback. 
+* Presenter: Paul Macklin
+* Slides:
+* Code: 
+* Video:
+  
 ### 14:30-15:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 15:00-16:30. Session 4: Two complete modeling examples (interactive). 
-Work through two complete modeling examples from start to finish. This session will focus on defining multiple cell definitions in a model of clonal competition in a tumor. It will also define a model of innate immune response to invading bacteria. These intermediate-level models can be built completely through XML markup via a graphical interface with no additional C++. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_04/slides/PhysCell_ws2022_Session04.pdf)
-* Code: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_04/code/PhysCell_ws2022_Session04_config_files.zip)
-* Video: [click here](https://www.youtube.com/watch?v=XO180o9MRdQ)
+### 15:00-16:30. Session 5: Model Extensions 1
+Building upon our first model (Session 4), we will add hypoxic responses, a cytotoxic drug, cellular debris, and macrophages. 
+* Presenter: Paul Macklin
+* Slides:
+* Code:
+* Video: 
 
 ### 16:30-17:00. Break (H)
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 17:00-17:45. Brainstorming Round 1 (H)
+### 17:00-17:35. Brainstorming Round 1 (H)
 Start brainstorming for hackathon projects with your fellow workshop participants. 
+* Facilitator: Paul Macklin
+* Format: 5 minute introduction + 3 x 10 minute discussions 
 
-### 17:45-18:30. Highlights from last year's hackathon (H)
-Join two of last year's teams for brief demonstrations and Q&A on their projects. 
-
-### 18:30-???. Virtual Social (Optional) (H). 
+### 17:35-17:45. Wrapup 
+Wrap up the day's activities, and outline plans for day 2. 
+* Presenter: Paul Macklin
+  
+### 17:45-???. Virtual Social (Optional) (H). 
 Please use Gathe to continue getting to know your fellow participants. 
+
+---
+ciut 
 
 ### Asynchronous. Session 5: Boundary Conditions, Custom Variables, Parameters, and C++ searches
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
