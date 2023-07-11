@@ -30,7 +30,7 @@ We use a dedicated Slack workspace for annoucements, troubleshooting, and other 
 
 [https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA](https://join.slack.com/t/physicellcomm-sf93727/shared_invite/zt-qj1av6yd-yVeer8VkQaNDjDz7fF00jA)
 
-#### Join the Gather space (H)
+#### Join the Gather space
 We will use Gather as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details will be sent by email to full participants. 
 
 ### Watch introductory materials
@@ -50,13 +50,13 @@ User our template to prepare a short self-introduction, including your ideas for
 * Slide Template (PPTX): [click here](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
 ### Meet your hackathon colleagues at virtual socials (optional) 
-#### Sunday, July 23 (4:00-6:00 pm US Eastern Time) Virtual Social (H)
+#### Sunday, July 23 (4:00-6:00 pm US Eastern Time) Virtual Social 
 Introduce yourself and meet your fellow participants in this virtual social. You will receive the link by email and in Gather. 
 [Submit slides by email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) in advance if at all possible. 
 
 Please prepare your 4 minute mini introduction using this [template](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
-### Asynchronous Sessions for Day 1. 
+### Asynchronous Sessions in Preparation for Day 1. 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
 #### Session 2: Working with PhysiCell Studio (15 min)
 * Presenter: Randy Heiland
@@ -67,14 +67,14 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ## Monday, July 24: Day 1 (All times US Eastern)
 
-### Asynchronous Sessions for Day 1. 
+### Asynchronous Sessions in Preparation for Day 1. 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
 #### Session 2: Working with PhysiCell Studio (15 min)
 * Presenter: Randy Heiland
 * Slides:  
 * Video:
   
-### 11:00-11:10. Welcome and Introduction (H)
+### 11:00-11:10. Welcome and Introduction 
 Welcome participants, give the overall format, and discuss goals for the week. 
 * Presenter: Paul Macklin
   
@@ -105,10 +105,10 @@ Building upon our first model (Session 4), we will add hypoxic responses, a cyto
 * Code:
 * Video: 
 
-### 16:30-17:00. Break (H)
+### 16:30-17:00. Break 
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
 
-### 17:00-17:35. Brainstorming Round 1 (H)
+### 17:00-17:35. Brainstorming Round 1
 Start brainstorming for hackathon projects with your fellow workshop participants. 
 * Facilitator: Paul Macklin
 * Format: 5 minute introduction + 3 x 10 minute discussions 
@@ -117,7 +117,7 @@ Start brainstorming for hackathon projects with your fellow workshop participant
 Wrap up the day's activities, and outline plans for day 2. 
 * Presenter: Paul Macklin
   
-### 17:45-???. Virtual Social (Optional) (H). 
+### 17:45-???. Virtual Social (Optional) 
 Please use Gathe to continue getting to know your fellow participants. 
 
 ### Advanced / Asynchronous / Optional
@@ -129,9 +129,11 @@ Learn about how to work with boundary conditions, custom cell variables, and use
 * Slides:
 * Video:
 
-#### Advanced Session 2: PhysiCell Functions
-* Presenter: Heber Rocha 
+#### Advanced Session 2: Functions in PhysiCell
+Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotypes that vary with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into hand-coded agent rules that can dynamicaly change cell phenotype in response to signals. 
+* Presenter: Heber Rocha
 * Slides:
+* Code:
 * Video:
 
 #### Advanced Session 3: PhysiCell Coloring Functions
@@ -139,144 +141,166 @@ Learn about how to work with boundary conditions, custom cell variables, and use
 * Slides:
 * Video:
 
-  
-To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
-
 -----
 
 ## Tuesday, July 25: Day 2 (All times US Eastern)
 
-/*
-### Asynchronous. Session 5: Boundary Conditions, Custom Variables, Parameters, and C++ searches
-Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
-* Slides:  [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_05/slides/PhysiCell_ws2022_Session05.pdf)
-* Video: [click here](https://www.youtube.com/watch?v=SaiV_7aQayY)
+### 11:00-11:10. Welcome and Day's Goals 
+Summarize Day 1, and discuss Day 2 goals. 
+* Facilitator: Paul Macklin
 
-To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 2 activities. 
-*/
+### 11:10-12:40. Session 6: Model Extensions 2
+Building upon our first models (Sessions 4-5), we will add inflammation, cytotoxic T cells, and mutations of tumor cells to evade immune responses. 
+* Presenter: Paul Macklin
+* Slides:
+* Code:
+* Video:
 
-### 11:00-11:10. Welcome and Day's Goals (H)
-Discuss the day's goals.
-
-### 11:10-12:15. Session 6: Functions in PhysiCell
-Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotypes that vary with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into agent rules that can dynamicaly change cell phenotype in response to signals. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_06/slides/PhysiCell_ws2022_Session06.pdf)
-* Code: [click here](https://github.com/physicell-training/ws2022/tree/main/sessions/session_06/code)
-* Zoom: https://iu.zoom.us/j/83603978310
-
-### 12:15-12:45. Break (H)
+### 12:40-13:00. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
+### 13:10-14:00. Session 7: Working with PhysiCell Data in Python with Data Loader
+Learn to load, manipulate, and explore full PhysiCell outputs in Python using PhysiCell Data Loader. 
+* Presenter: Elmar Bücher
+* Slides:
+* Code:
+* Video:
+
+
+/* 
+orphaned 
 ### 12:45-14:00. Session 7: Cell-Cell Interactions in PhysiCell
 Learn how to make cells communicate by chemical and contact interactions. 
 * Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_07/slides/PhysiCell_ws2022_Session07.pdf)
 * Code: [click here](https://github.com/physicell-training/ws2022/tree/main/sessions/session_07/code)
 * Zoom: https://iu.zoom.us/j/83603978310
 
-### 14:00-14:15. Break (H)
+*/
+
+### 14:00-14:30. Break
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 14:15-14:30. Summary of Day 1 Brainstorming (H)
+### 14:30-14:45. Summary of Day 1 Brainstorming
 We will present clustering of main ideas generated in Round 1 brainstorming to prepare for continued project brainstorming. 
+* Facilitator: Paul Macklin
+  
+### 14:45-15:15. Brainstorming Round 2
+Choose a cluster and refine project ideas. Prepare to briefly present your refined project theme. 
+* Facilitator: Paul Macklin
 
-### 14:30-15:00. Brainstorming Round 2 (H)
-Continue to generate and refine project ideas. 
-
-### 15:00-15:30. Present Brainstorming Round 2 (H)
+### 15:15-15:45. Present Brainstorming Round 2
 Briefly summarize the refined brainstorming for each group. 
+* Facilitator: Paul Macklin
 
-### 15:30-16:00. Break (H)
+### 15:45-16:00. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 16:00-16:45. Team Formation Round 1 (H)
-Start forming teams for your hackathon project. 
+### 16:00-16:45. Team Formation Round 1 
+Choose a refined project. Further refine your project idea and prepare to briefly present it. 
+* Facilitator: Paul Macklin
 
-### 16:45-17:15. Team Report Round 1 (H)
-Briefly summarize team formation results. 
+### 16:45-17:15. Team Report Round 1
+Briefly summarize team formation results. Choose whether to switch teams. 
+* Facilitator: Paul Macklin
 
-### 17:15-17:30. Break (H)
+### 17:15-17:30. Break
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 17:30-18:00. Team Formation Round 2 (H)
-Continue forming teams for the hackathon projects. 
+### 17:30-18:00. Team Formation Round 2
+Continue refining your team's main idea, with a focus on a bite-sized preliminary result. 
+* Facilitator: Paul Macklin
 
-### 18:00-18:15 Day 2 wrap-up (H)
+### 18:00-18:10 Day 2 wrap-up
 Discuss the day's progress and set the stage for Day 3. 
+* Facilitator: Paul Macklin
 
-### 18:15-19:00 Session 8: 3-D Visualization with Simularium (Optional)
-Learn to interactively visualize 3-D simualtion data with Simularium (Allen Cell Institute). 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_08/slides/PhysiCell_ws2022_Session08.pdf)
-* Code: [click here](https://github.com/PhysiCell-Tools/vis3D/tree/main/Simularium)
-* Zoom: https://iu.zoom.us/j/83603978310
-
-### 19:00-???. Virtual Social (Optional) (H). 
+### 18:10-???. Virtual Social (Optional) 
 Please use Gather to continue getting to know your fellow participants. 
 
-### Asynchronous. Session 9: 3-D Visualization with FURY (optional)  
-Learn about 3-D visualization with the FURY framework. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_09/slides/PhysiCell_ws2022_Session09.pdf)
-* Code: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_09/code/fury3D.py)
-* Video: 
-
-### Asynchronous. Session 10: PhysiBoSS Introduction 
-Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_10/slides/PhysiCell_ws2022_Session10.pdf)
-* Video: [click here](https://youtu.be/P3sE6YCNPaM)
-
+### Asynchronous in preparation for Day 3
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
+#### Session 8: PhysiBoSS Introduction 
+Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
+* Presenter: Vincent Nöel
+* Slides:
+* Video: 
 
 -----
 
-## Wednesday, July 27: Day 3 (All times US Eastern)
+## Wednesday, July 26: Day 3 (All times US Eastern)
 
-### Asynchronous. Session 10: PhysiBoSS Introduction 
-Learn about the PhysiBoSS extension to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_10/slides/PhysiCell_ws2022_Session10.pdf)
-* Video: [click here](https://youtu.be/P3sE6YCNPaM)
- 
+### Asynchronous in preparation for Day 3
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
+#### Session 8: PhysiBoSS Introduction 
+Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
+* Presenter: Vincent Nöel
+* Slides:
+* Video: 
 
-### 11:00-11:05. Welcome and Day's Goals (H)
-Discuss the day's goals.
 
-### 11:05-12:30. Session 11: PhysiBoSS Walk-Thru
+
+### 11:00-11:05. Welcome and Day's Goals 
+Discuss the day's goals
+* Facilitator: Paul Macklin
+
+### 11:05-12:30. Session 9: PhysiBoSS Walk-Thru
 Continue to learn to integrate Boolean signaling networks with PhysiCelll in this fully guided walk-thru. 
-* Slides: [click here](https://github.com/physicell-training/ws2022/raw/main/sessions/session_11/slides/PhysiCell_ws2022_Session11.pdf)
-* Code: [click here](https://github.com/PhysiBoSS/PhysiBoSS/tree/development)
-* Zoom: message Paul Macklin or Furkan Kurtoglu for details
+* Presenter: Vincent Nöel
+* Slides:
+* Video: 
 
-### 12:30-13:00. Break (H)
+### 12:30-13:00. Break
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 13:00-13:45. Session 12: Intracellular with libRoadrunner (introduction)
-Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
-* Zoom: message Paul Macklin or Furkan Kurtoglu for details
+### 13:05-14:30. Session 10: PhysiCell Modeling Example and Warm-Up 1
+We present a full modeling example as a daily warmup. 
+* Presenter: John Metzcar
+* Slides:
+* Video: 
 
-### 13:45-14:00. Break (H)
-Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
-
-### 14:00-15:00. Session 13: Intracellular with libRoadrunner (interactive demo)
-Continuing learning how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
-* Zoom: message Paul Macklin or Furkan Kurtoglu for details
-
-### 15:00-15:45. Break (H)
+### 14:30-15:00. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 15:45-16:45. Team Time 1 (H)
+### 15:00-16:00. Team Time 1
 Work with your team on your project in Gather / Zoom breakout. Work on brief presentations of your team's plans 
-* Instructions: [click here](https://github.com/physicell-training/ws2022/raw/main/other/pptx/PhysiCell%202022_TeamTime1.pptx)
+* Facilitator: Paul Macklin
 
-### 16:45-17:00. Break (H)
+### 16:00-16:15. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
-### 17:00-17:55. Cross-Pollination: Team Brief Presentations (H)
-Briefly present your team's plan and get feedback from workshop participants. 
+### 16:16-17:45. Cross-Pollination: Team Brief Presentations
+Briefly present your team's plan and give/get feedback from workshop participants. 
 
-### 17:55-18:00. Day 3 wrap-up (H)
+### 17:45-18:00. Day 3 wrap-up
 Discuss the day's progress and set the stage for Day 3. 
 
 ### 18:00-???. Virtual Social (Optional) (E). 
 Please use Gather to continue getting to know your fellow participants. 
+
+### 18:00-18:30. Feedback on instructional materials (optional)
+Give feedback on improvements to the Day 0-3 training materials. 
+
+
+/* start here */ 
+
+/*
+### 13:00-13:45. Session 12: Intracellular with libRoadrunner (introduction)
+Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+* Zoom: message Paul Macklin or Furkan Kurtoglu for details
+*/
+
+
+### 13:45-14:00. Break (H)
+Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
+
+
+
+
+/*
+### 14:00-15:00. Session 13: Intracellular with libRoadrunner (interactive demo)
+Continuing learning how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
+* Zoom: message Paul Macklin or Furkan Kurtoglu for details
+
 
 ### Asynchronous. Session 14: Sharing PhysiCell models on nanoHUB (Optional)
 Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
@@ -285,6 +309,7 @@ Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on n
 See additional examples of more advanced cell-cell contacts and interactions, such as spring interactions and juxtacrine signaling. 
 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 4 activities. 
+*/
 
 -----
 
