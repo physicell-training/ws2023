@@ -209,7 +209,7 @@ Please use Gather to continue getting to know your fellow participants.
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 #### Session 8: PhysiBoSS Introduction 
 Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
-* Presenter: Vincent Nöel
+* Presenter: Vincent Noël
 * Slides:
 * Video: 
 
@@ -221,7 +221,7 @@ Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institu
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
 #### Session 8: PhysiBoSS Introduction 
 Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
-* Presenter: Vincent Nöel
+* Presenter: Vincent Noël
 * Slides:
 * Video: 
 
@@ -231,7 +231,7 @@ Discuss the day's goals
 
 ### 11:05-12:30. Session 9: PhysiBoSS Walk-Thru
 Continue to learn to integrate Boolean signaling networks with PhysiCelll in this fully guided walk-thru. 
-* Presenter: Vincent Nöel
+* Presenter: Vincent Noël
 * Slides:
 * Video: 
 
