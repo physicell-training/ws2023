@@ -317,7 +317,7 @@ Continuing learning how to write intracellular models (systems of ODEs) in cance
 * Code:
 * Video: 
 
-### 12:00-10:30. Team Time 2
+### 12:00-16:00. Team Time 2
 Work with your team in Gather / Zoom. 
 
 ### 16:00-18:00. Present Preliminary Results
