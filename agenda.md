@@ -49,7 +49,7 @@ User our template to prepare a short self-introduction, including your ideas for
 * Slide Template (PPTX): [click here](https://github.com/physicell-training/ws2023/raw/main/templates/PhysiCell_ws_intro_template.pptx)
 
 ### Meet your hackathon colleagues at virtual socials (optional) 
-#### Sunday, July 23 (4:00-6:00 pm US Eastern Time) Virtual Social 
+#### Sunday (4:00-6:00 pm US Eastern Time) Virtual Social 
 Introduce yourself and meet your fellow participants in this virtual social. You will receive the link by email and in Gather. 
 [Submit slides by email to Paul Macklin](mailto:macklinp@iu.edu?subjects=my_physicell_slides) in advance if at all possible. 
 
