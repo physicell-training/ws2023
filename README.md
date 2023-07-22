@@ -7,6 +7,8 @@ PhysiCell is an open source, agent-based simulation framework for simulating com
 
 The workshop is open to all without participation limits. The hackathon is closely mentored and will be open to a selected cohort of up to 30 participants. Applicants should have prior experience in C++ or Python, with an interest in multicellular modeling.
 
+**The workshop is rescheduled for August 6-12, 2023.**
+
 ## What you’ll learn: 
 * Build multiscale agent-based multicellular simulations in PhysiCell
 * Integrate SBML network models in PhysiCell agents
