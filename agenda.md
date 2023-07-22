@@ -3,10 +3,10 @@ This is the official, full agenda for the 2023 PhysiCell Workshop and Hackathon.
 
 **All times are US Eastern** [Click here to see the current US Eastern date and time.](https://www.timeanddate.com/worldclock/fullscreen.html?n=179)
 
-**last updated:** Sunday, July 9, 2023
+**last updated:** Sunday, July 22, 2023
 
 ## Pre-Workshop Materials and Activities 
-To arrive prepared, all workshop participants should work through the pre-workshop materials prior to Monday, July 24th. 
+To arrive prepared, all workshop participants should work through the pre-workshop materials prior to Monday. 
 
 ### Set up PhysiCell 
 #### MacOS Setup  
@@ -64,7 +64,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 -----
 
-## Monday, July 24: Day 1 (All times US Eastern)
+## Monday: Day 1 (All times US Eastern)
 
 ### Asynchronous Sessions in Preparation for Day 1. 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
@@ -142,7 +142,7 @@ Learn how to write custom C++ cell functions in PhysiCell, and use them to write
 
 -----
 
-## Tuesday, July 25: Day 2 (All times US Eastern)
+## Tuesday: Day 2 (All times US Eastern)
 
 ### 11:00-11:10. Welcome and Day's Goals 
 Summarize Day 1, and discuss Day 2 goals. 
@@ -215,7 +215,7 @@ Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institu
 
 -----
 
-## Wednesday, July 26: Day 3 (All times US Eastern)
+## Wednesday: Day 3 (All times US Eastern)
 
 ### Asynchronous in preparation for Day 3
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 3 activities. 
@@ -300,7 +300,7 @@ Take a virtual coffee break in GatherTown to mix and meet with your fellow parti
 
 -----
 
-## Thursday, July 27: Day 4 (All times US Eastern)
+## Thursday: Day 4 (All times US Eastern)
 
 ### 11:00-11:05. Welcome and Day's Goals
 Discuss the day's goals
@@ -335,7 +335,7 @@ Discuss transition to a community governance model.
 
 -----
 
-## Friday, July 28: Day 5 (All times US Eastern)
+## Friday: Day 5 (All times US Eastern)
 
 ### 11:00-11:05. Welcome and Day's Goals
 Discuss the day's goals
@@ -361,7 +361,7 @@ Discuss transition to a community governance model. Session held as needed.
 
 -----
 
-## Saturday, July 29: Final Presentations (All times US Eastern)
+## Saturday: Final Presentations (All times US Eastern)
 
 ### 11:00-14:00. Final Team Presentations.  
 Present your team's project results for the community and for feedback and scoring. Detailed schedule TBA. 
