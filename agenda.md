@@ -341,13 +341,13 @@ Discuss transition to a community governance model.
 Discuss the day's goals
 * Presenter: Paul Macklin
   
-### 12:05-13:00. Session 11: PhysiCell Modeling Example and Warm-Up 2
+### 11:05-12:00. Session 11: PhysiCell Modeling Example and Warm-Up 2
 We present a full modeling example as a daily warmup. 
 * Presenter: TBD
 * Slides:
 * Video:
 
-### 13:00-18:15. Team Time 3.  
+### 12:00-18:15. Team Time 3.  
 Work with your team in Gather / Zoom. Schedule breaks on your own as needed. 
 
 ### 18:15-18:30. Day 5 wrap-up
