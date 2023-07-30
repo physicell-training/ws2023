@@ -60,7 +60,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 #### Session 2: Working with PhysiCell Studio (15 min)
 * Presenter: Randy Heiland
 * Guide:  https://github.com/PhysiCell-Tools/Studio-Guide/blob/main/README.md
-* Video:  
+* Video: [Click here](https://youtu.be/jkbPP1yDzME) 
 
 -----
 
@@ -71,7 +71,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 #### Session 2: Working with PhysiCell Studio (15 min)
 * Presenter: Randy Heiland
 * Guide:  https://github.com/PhysiCell-Tools/Studio-Guide/blob/main/README.md
-* Video:
+* Video: [Click here](https://youtu.be/jkbPP1yDzME) 
   
 ### 11:00-11:10. Welcome and Introduction 
 Welcome participants, give the overall format, and discuss goals for the week. 
