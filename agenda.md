@@ -59,7 +59,7 @@ Please prepare your 4 minute mini introduction using this [template](https://git
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
 #### Session 2: Working with PhysiCell Studio (15 min)
 * Presenter: Randy Heiland
-* Slides:  
+* Guide:  https://github.com/PhysiCell-Tools/Studio-Guide#readme
 * Video:  
 
 -----
