@@ -12,7 +12,7 @@ To arrive prepared, all workshop participants should work through the pre-worksh
 #### MacOS Setup  
 * Presenter: John Metzcar
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/setup/PhysiCell_ws2023_macOS_setup.pdf)
-* Video: Coming soon
+* Video: [Click here](https://youtu.be/HPYz8o6pw7c) 
 
 #### Windows Setup  
 * Presenter: Furkan Kurtoglu
