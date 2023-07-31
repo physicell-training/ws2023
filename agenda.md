@@ -35,8 +35,8 @@ We will use Gather as our virtual conference space, particularly to help navigat
 ### Watch introductory materials
 #### Session 0: Introduction to agent-based modeling and PhysiCell (approx 45 min)
 * Presenter: Paul Macklin
-* Slides: 
-* Video: 
+* Slides: [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/session_00/PhysiCell_ws2023_Session00.pdf)
+* Video: [Click here](https://youtu.be/KUjLbwaTvyU)
 
 #### Session 1: Working with Projects in PhysiCell (approx 15 min)
 * Presenter: Paul Macklin
