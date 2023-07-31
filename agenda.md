@@ -40,8 +40,8 @@ We will use Gather as our virtual conference space, particularly to help navigat
 
 #### Session 1: Working with Projects in PhysiCell (approx 15 min)
 * Presenter: Paul Macklin
-* Slides:  
-* Video: 
+* Slides:  [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/session_01/PhysiCell_ws2023_Session01.pdf)
+* Video: [Click here](https://youtu.be/SyMxDR8ORc0) 
 
 ### 4 Minute Lighting Self Introduction 
 User our template to prepare a short self-introduction, including your ideas for PhysiCell hackathon projects. 
@@ -289,8 +289,7 @@ Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on n
 * Code:
 * Video: 
 
-
-/* start here */ 
+ 
 
 
 ### 13:45-14:00. Break (H)
@@ -320,6 +319,9 @@ Continuing learning how to write intracellular models (systems of ODEs) in cance
 ### 12:00-16:00. Team Time 2
 Work with your team in Gather / Zoom. 
 
+### 12:00-13:30. PhysiCell Governance (optional and by invitation only)
+Discuss transition to a community governance model. 
+
 ### 16:00-18:00. Present Preliminary Results
 Share your team's preliminary results in Gather / Zoom. 
 * Facilitator: Paul Macklin
@@ -329,9 +331,6 @@ Share your team's preliminary results in Gather / Zoom.
 
 ### 18:10-???. Virtual Social (Optional)
 Please use Gather to continue getting to know your fellow participants. 
-
-### 18:30-19:30. PhysiCell Governance (optional and by invitation only)
-Discuss transition to a community governance model. 
 
 -----
 
@@ -350,14 +349,14 @@ We present a full modeling example as a daily warmup.
 ### 12:00-18:15. Team Time 3.  
 Work with your team in Gather / Zoom. Schedule breaks on your own as needed. 
 
+### 12:00-13:30. PhysiCell Governance (optional and by invitation only)
+Discuss transition to a community governance model. 
+
 ### 18:15-18:30. Day 5 wrap-up
 Discuss the day's progress and set the stage for group presentations. 
 
 ### 18:30-???. Virtual Social (Optional). 
 Please use Gather to continue getting to know your fellow participants. 
-
-### 18:30-19:30. PhysiCell Governance (optional and by invitation only)
-Discuss transition to a community governance model. Session held as needed. 
 
 -----
 
