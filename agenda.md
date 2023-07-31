@@ -40,8 +40,8 @@ We will use Gather as our virtual conference space, particularly to help navigat
 
 #### Session 1: Working with Projects in PhysiCell (approx 15 min)
 * Presenter: Paul Macklin
-* Slides:  
-* Video: 
+* Slides:  [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/session_01/PhysiCell_ws2023_Session01.pdf)
+* Video: [Click here](https://youtu.be/SyMxDR8ORc0) 
 
 ### 4 Minute Lighting Self Introduction 
 User our template to prepare a short self-introduction, including your ideas for PhysiCell hackathon projects. 
