@@ -33,13 +33,15 @@ We use a dedicated Slack workspace for annoucements, troubleshooting, and other 
 We will use Gather as our virtual conference space, particularly to help navigate between zoom rooms for the virtual hackathon and breakout sessions. Details will be sent by email to full participants. 
 
 ### Watch introductory materials
-#### Session 0: Introduction to agent-based modeling and PhysiCell (approx 45 min)
+#### Session 0: Introduction to agent-based modeling and PhysiCell
 * Presenter: Paul Macklin
+* Duration: Approx 45 min
 * Slides: [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/session_00/PhysiCell_ws2023_Session00.pdf)
 * Video: [Click here](https://youtu.be/KUjLbwaTvyU)
 
-#### Session 1: Working with Projects in PhysiCell (approx 15 min)
+#### Session 1: Working with Projects in PhysiCell
 * Presenter: Paul Macklin
+* Duration: Approx 35 min
 * Slides:  [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/session_01/PhysiCell_ws2023_Session01.pdf)
 * Video: [Click here](https://youtu.be/SyMxDR8ORc0) 
 
@@ -57,8 +59,9 @@ Please prepare your 4 minute mini introduction using this [template](https://git
 
 ### Asynchronous Sessions in Preparation for Day 1. 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
-#### Session 2: Working with PhysiCell Studio (15 min)
+#### Session 2: Working with PhysiCell Studio
 * Presenter: Randy Heiland
+* Duration: Approx 15 min
 * Guide:  https://github.com/PhysiCell-Tools/Studio-Guide/blob/main/README.md
 * Video: [Click here](https://youtu.be/jkbPP1yDzME) 
 
@@ -68,8 +71,9 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 
 ### Asynchronous Sessions in Preparation for Day 1. 
 To reduce Zoom fatigue sessions like this have been moved to asynchronous to watch at your own convenience. Please watch prior to the start of synchronous Day 1 activities.
-#### Session 2: Working with PhysiCell Studio (15 min)
+#### Session 2: Working with PhysiCell Studio
 * Presenter: Randy Heiland
+* Duration: Approx 15 min
 * Guide:  https://github.com/PhysiCell-Tools/Studio-Guide/blob/main/README.md
 * Video: [Click here](https://youtu.be/jkbPP1yDzME) 
   
