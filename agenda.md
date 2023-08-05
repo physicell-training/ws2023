@@ -288,14 +288,11 @@ Learn how to make cells communicate by chemical and contact interactions.
 * Code:
 * Video: 
 
-#### Advanced Session 6: Sharing PhysiCell Models on NanoHub
+#### Advanced Session 6: Sharing PhysiCell Models on nanoHUB
 Learn about sharing PhysiCell models as cloud-hosted, "zero-install" models on nanoHUB. 
 * Presenter: Randy Heiland
-* Slides:
-* Code:
-* Video: 
+* Instructions: https://github.com/PhysiCell-Tools/nanohub-studio-app/blob/main/README.md
 
- 
 
 
 ### 13:45-14:00. Break (H)
