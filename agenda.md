@@ -86,8 +86,8 @@ Welcome participants, give the overall format, and discuss goals for the week.
 ### 11:10-12:30. Session 3: PhysiCell Signals, Behaviors, and Grammar
 Introduce the standardized (reference) behavior models, signals, and a behavior grammar at the core of PhysiCell's new rules-based modeling approach. 
 * Presenter: Paul Macklin
-* Slides:
-* Code:
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_03/PhysiCell_ws2023_Session03.pdf)
+* Code: None.
 * Video: 
 
 ### 12:30-13:00. Break (H)
@@ -96,8 +96,8 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 ### 13:00-14:30. Session 4: First PhysiCell Model 
 We will create, run, visualize, and explore a full model of oxygen-dependent tumor growth with mechanofeedback. 
 * Presenter: Paul Macklin
-* Slides:
-* Code: 
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_04/PhysiCell_ws2023_Session04.pdf)
+* Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_04/codes) 
 * Video:
   
 ### 14:30-15:00. Break (H)
