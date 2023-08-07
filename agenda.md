@@ -106,8 +106,8 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 ### 15:00-16:30. Session 5: Model Extensions 1
 Building upon our first model (Session 4), we will add hypoxic responses, a cytotoxic drug, cellular debris, and macrophages. 
 * Presenter: Paul Macklin
-* Slides:
-* Code:
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_05/PhysiCell_ws2023_Session05.pdf)
+* Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_05/codes)
 * Video: 
 
 ### 16:30-17:00. Break 
@@ -137,13 +137,14 @@ Learn about how to work with boundary conditions, custom cell variables, and use
 #### Advanced Session 2: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotypes that vary with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into hand-coded agent rules that can dynamicaly change cell phenotype in response to signals. 
 * Presenter: Heber Rocha
-* Slides:
-* Code:
+* Slides:[Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_02/PhysiCell_ws2023_Advanced_Session02.pdf)
+* Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/advanced_session_02/code)
 * Video:
 
 #### Advanced Session 3: PhysiCell Coloring Functions
 * Presenter: John Metzcar
-* Slides:
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_03/PhysiCell_ws2023_Advanced_Session03.pdf)
+* Code: [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/advanced_session_03/coloring_functions_project_save.zip)
 * Video:
 
 -----
