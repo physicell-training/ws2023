@@ -131,7 +131,7 @@ These are optional C++ based sessions intended for advanced users and PhysiCell 
 #### Advanced Session 1: Boundary Conditions, Custom Variables, Parameters, and C++ searches
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
 * Presenter: Aneequa Sundus 
-* Slides:
+* Slides:[Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_01/PhysiCell_ws2023_Advanced_Session01.pdf)
 * Video:
 
 #### Advanced Session 2: Functions in PhysiCell
