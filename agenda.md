@@ -139,7 +139,7 @@ Learn how to write custom C++ cell functions in PhysiCell, and use them to write
 * Presenter: Heber Rocha
 * Slides:[Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_02/PhysiCell_ws2023_Advanced_Session02.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/advanced_session_02/code)
-* Video:
+* Video: [Click here](https://youtu.be/6ucOBWK1f_A)
 
 #### Advanced Session 3: PhysiCell Coloring Functions
 * Presenter: John Metzcar
