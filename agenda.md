@@ -132,7 +132,7 @@ These are optional C++ based sessions intended for advanced users and PhysiCell 
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
 * Presenter: Aneequa Sundus 
 * Slides:[Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_01/PhysiCell_ws2023_%20Advanced_Session01.pdf)
-* Video: [Click here](https://youtu.be/-3SPvaavOoU)
+* Video: [Click here](https://youtu.be/OfGQagFaYDo)
 
 #### Advanced Session 2: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotypes that vary with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into hand-coded agent rules that can dynamicaly change cell phenotype in response to signals. 
@@ -145,7 +145,7 @@ Learn how to write custom C++ cell functions in PhysiCell, and use them to write
 * Presenter: John Metzcar
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_03/PhysiCell_ws2023_Advanced_Session03.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/advanced_session_03/coloring_functions_project_save.zip)
-* Video:
+* Video: [Click here](https://youtu.be/vt4h1XvJ4Nk)
 
 -----
 
