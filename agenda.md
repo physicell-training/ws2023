@@ -160,7 +160,7 @@ Building upon our first models (Sessions 4-5), we will add inflammation, cytotox
 * Presenter: Paul Macklin
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_06/PhysiCell_ws2023_Session06.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_06/codes)
-* Video:
+* Video: [Click here](https://youtu.be/h4WLLDfFEeU)
 
 ### 12:40-13:00. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
@@ -170,7 +170,7 @@ Learn to load, manipulate, and explore full PhysiCell outputs in Python using Ph
 * Presenter: Elmar Bucher
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_07/PhysiCell_ws2023_Session07_pcdl.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_06/PhysiCell_ws2023_Session06.pdf)
-* Video:
+* Video: [Click here](https://youtu.be/zx1CdfezDTU)
 
 ### 14:00-14:30. Break
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
@@ -217,8 +217,8 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 #### Session 8: PhysiBoSS Introduction 
 Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
 * Presenter: Vincent Noël
-* Slides:
-* Video: 
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_08/PhysiCell_ws2023_Session08.pdf)
+* Video: [Click here](https://youtu.be/XdXnetAneak)
 
 -----
 
