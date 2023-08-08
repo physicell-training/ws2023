@@ -230,7 +230,7 @@ To reduce Zoom fatigue sessions like this have been moved to asynchronous to wat
 Learn about the PhysiBoSS extension (Barcelona Supercomputing Center and Institute Curie) to PhysiCell that lets you incorporate Boolean signaling networks in each cell agent, and connect these with signals in the tissue environment and the cell's behavioral phenotype. Please note that this session is necessary for the next day's content. 
 * Presenter: Vincent Noël
 * Slides:[Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_08/PhysiCell_ws2023_Session08.pdf)
-* Video: 
+* Video: [Click here](https://youtu.be/XdXnetAneak)
 
 ### 11:00-11:05. Welcome and Day's Goals 
 Discuss the day's goals
