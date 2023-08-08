@@ -88,7 +88,7 @@ Introduce the standardized (reference) behavior models, signals, and a behavior 
 * Presenter: Paul Macklin
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_03/PhysiCell_ws2023_Session03.pdf)
 * Code: None.
-* Video: 
+* Video: [Click here](https://youtu.be/KCNBSqXuILM)
 
 ### 12:30-13:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
@@ -98,7 +98,7 @@ We will create, run, visualize, and explore a full model of oxygen-dependent tum
 * Presenter: Paul Macklin
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_04/PhysiCell_ws2023_Session04.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_04/codes) 
-* Video:
+* Video: [Click here](https://youtu.be/43kxcNuY7Pg)
   
 ### 14:30-15:00. Break (H)
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
@@ -108,7 +108,7 @@ Building upon our first model (Session 4), we will add hypoxic responses, a cyto
 * Presenter: Paul Macklin
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_05/PhysiCell_ws2023_Session05.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_05/codes)
-* Video: 
+* Video: [Click here](https://youtu.be/-3SPvaavOoU)
 
 ### 16:30-17:00. Break 
 Take a virtual coffee break in GatherTown to mix and meet with your fellow participants. 
@@ -131,8 +131,8 @@ These are optional C++ based sessions intended for advanced users and PhysiCell 
 #### Advanced Session 1: Boundary Conditions, Custom Variables, Parameters, and C++ searches
 Learn about how to work with boundary conditions, custom cell variables, and users parameters. Learn how to search for and access custom variables, user parameters, cell definitions, and microenvironment substrates from within C++ in a PhysiCell project. 
 * Presenter: Aneequa Sundus 
-* Slides:
-* Video:
+* Slides:[Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_01/PhysiCell_ws2023_%20Advanced_Session01.pdf)
+* Video: [Click here](https://youtu.be/OfGQagFaYDo)
 
 #### Advanced Session 2: Functions in PhysiCell
 Learn how to write custom C++ cell functions in PhysiCell, and use them to write dynamical cell phenotypes that vary with microenvironmental conditions. This is the basis for turning your cell biological hypotheses into hand-coded agent rules that can dynamicaly change cell phenotype in response to signals. 
@@ -145,7 +145,7 @@ Learn how to write custom C++ cell functions in PhysiCell, and use them to write
 * Presenter: John Metzcar
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_03/PhysiCell_ws2023_Advanced_Session03.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/raw/main/sessions/advanced_session_03/coloring_functions_project_save.zip)
-* Video:
+* Video: [Click here](https://youtu.be/vt4h1XvJ4Nk)
 
 -----
 
@@ -168,7 +168,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 ### 13:10-14:00. Session 7: Working with PhysiCell Data in Python with Data Loader
 Learn to load, manipulate, and explore full PhysiCell outputs in Python using PhysiCell Data Loader. 
 * Presenter: Elmar Bucher
-* Slides:
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_07/PhysiCell_ws2023_Session07_pcdl.pdf)
 * Code:
 * Video:
 
