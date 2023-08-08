@@ -159,7 +159,7 @@ Summarize Day 1, and discuss Day 2 goals.
 Building upon our first models (Sessions 4-5), we will add inflammation, cytotoxic T cells, and mutations of tumor cells to evade immune responses. 
 * Presenter: Paul Macklin
 * Slides:
-* Code:
+* Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_06/codes)
 * Video:
 
 ### 12:40-13:00. Break 
@@ -169,7 +169,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 Learn to load, manipulate, and explore full PhysiCell outputs in Python using PhysiCell Data Loader. 
 * Presenter: Elmar Bucher
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_07/PhysiCell_ws2023_Session07_pcdl.pdf)
-* Code:
+* Code: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_06/PhysiCell_ws2023_Session06.pdf)
 * Video:
 
 ### 14:00-14:30. Break
