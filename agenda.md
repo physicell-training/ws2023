@@ -158,7 +158,7 @@ Summarize Day 1, and discuss Day 2 goals.
 ### 11:10-12:40. Session 6: Model Extensions 2
 Building upon our first models (Sessions 4-5), we will add inflammation, cytotoxic T cells, and mutations of tumor cells to evade immune responses. 
 * Presenter: Paul Macklin
-* Slides:
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_06/PhysiCell_ws2023_Session06.pdf)
 * Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_06/codes)
 * Video:
 
