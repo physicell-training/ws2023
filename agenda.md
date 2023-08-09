@@ -248,8 +248,8 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 ### 13:05-14:30. Session 10: PhysiCell Modeling Example and Warm-Up 1
 We present a full modeling example as a daily warmup. 
 * Presenter: John Metzcar
-* Slides:
-* Video: 
+* Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_10/PhysiCell_ws2023_Session10.pdf)
+* Video: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_10/codes)
 
 ### 14:30-15:00. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
