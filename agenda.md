@@ -239,8 +239,8 @@ Discuss the day's goals
 ### 11:05-12:30. Session 9: PhysiBoSS Walk-Thru
 Continue to learn to integrate Boolean signaling networks with PhysiCelll in this fully guided walk-thru. 
 * Presenter: Vincent Noël
-* Slides:
-* Video: 
+* Slides: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_09)
+* Video: [Click here](https://youtu.be/RksXEvZXeKw)
 
 ### 12:30-13:00. Break
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
@@ -249,7 +249,8 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 We present a full modeling example as a daily warmup. 
 * Presenter: John Metzcar
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_10/PhysiCell_ws2023_Session10.pdf)
-* Video: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_10/codes)
+* Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_10/codes)
+* Video: [Click here](https://youtu.be/ZJv4u8D5i2c)
 
 ### 14:30-15:00. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
