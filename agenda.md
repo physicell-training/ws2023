@@ -257,12 +257,14 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 ### 15:00-16:00. Team Time 1
 Work with your team on your project in Gather / Zoom breakout. Work on brief presentations of your team's plans 
 * Facilitator: Paul Macklin
+* Presentation template: [Click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws_intro_template.pptx) 
 
 ### 16:00-16:15. Break 
 Take a virtual coffee break in Gather to mix and meet with your fellow participants. 
 
 ### 16:16-17:45. Cross-Pollination: Team Brief Presentations
 Briefly present your team's plan and give/get feedback from workshop participants. 
+* Presentation template: [Click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws_intro_template.pptx) 
 
 ### 17:45-18:00. Day 3 wrap-up
 Discuss the day's progress and set the stage for Day 3. 
