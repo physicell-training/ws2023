@@ -321,7 +321,7 @@ Continuing learning how to write intracellular models (systems of ODEs) in cance
 * Presenter: Furkan Kurtoglu
 * Slides: [Click Here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_07/slides/PhysiCell_ws2023_Advanced_Session_7.pdf)
 * Code: [Click Here](https://github.com/physicell-training/ws2023/tree/main/sessions/advanced_session_07/codes)
-* Video: 
+* Video: [Click Here](https://youtu.be/v11KqI112OY)
 
 ### 12:00-16:00. Team Time 2
 Work with your team in Gather / Zoom. 
