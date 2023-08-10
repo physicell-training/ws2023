@@ -282,8 +282,8 @@ These are optional C++ based sessions intended for advanced users and PhysiCell 
 #### Advanced Session 4: Intracellular with libRoadrunner (introduction)
 Learn how to write intracellular models (systems of ODEs) in cancer cell agents. Work through a cancer metabolism example. 
 * Presenter: Furkan Kurtoglu
-* Slides:
-* Video:
+* Slides: [Click Here](https://github.com/physicell-training/ws2023/blob/main/sessions/advanced_session_04/PhysiCell_ws2023_Advanced_Session_4.pdf)
+* Video: [Click Here](https://youtu.be/dNw0_Bp8Ars)
 
 #### Advanced Session 5: Cell-Cell Interactions in PhysiCell
 Learn how to make cells communicate by chemical and contact interactions. 
