@@ -353,7 +353,7 @@ Discuss the day's goals
 We present a full modeling example as a daily warmup. 
 * Presenter: John Metzcar
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_11/PhysiCell_ws2023_session11.pdf)
-* Video: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_11/codes)
+* Code: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_11/codes)
 
 ### 12:00-18:15. Team Time 3.  
 Work with your team in Gather / Zoom. Schedule breaks on your own as needed. Prepare presentations. 
