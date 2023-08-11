@@ -1,5 +1,7 @@
 # 2023 PhysiCell Workshop and Hackathon Agenda
-This is the official, full agenda for the 2023 PhysiCell Workshop and Hackathon. 
+This is the official, full agenda for the 2023 PhysiCell Workshop and Hackathon.
+
+Quick navigation: [[Pre-Workshop](#pre-workshop-materials-and-activities)] [[Day 1](#monday-day-1-all-times-us-eastern)] [[Day 2](#tuesday-day-2-all-times-us-eastern)] [[Day 3](#wednesday-day-3-all-times-us-eastern)] [[Day 4](#thursday-day-4-all-times-us-eastern)] [[Day 5](#friday-day-5-all-times-us-eastern)] [[Final presentations](#saturday-final-presentations-all-times-us-eastern))]
 
 **All times are US Eastern** [Click here to see the current US Eastern date and time.](https://www.timeanddate.com/worldclock/fullscreen.html?n=179)
 
