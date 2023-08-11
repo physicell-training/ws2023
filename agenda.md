@@ -374,7 +374,7 @@ Please use Gather to continue getting to know your fellow participants.
 
 ## Saturday: Final Presentations (All times US Eastern)
 
-### 11:00-14:00. Final Team Presentations.  
+### 11:00-12:00. Final Team Presentations.  
 Present your team's project results for the community and for feedback and scoring. Detailed schedule TBA. 
 
 
@@ -386,7 +386,7 @@ Adapt as you see best:
 * Presentation template (Modeling projects): [click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws2023_final_presentation_template(model).pptx)
 * Presentation template (Tools projects): [click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws2023_final_presentation_template(tool).pptx)
   
-### 14:00-14:30. Judges' Discussion. 
+### 12:00-12:30. Judges' Discussion. 
 
-### 14:30-15:00. Announce results and farewell
+### 12:30-13:00. Announce results and farewell
 * Facilitator: Paul Macklin
