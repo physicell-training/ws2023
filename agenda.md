@@ -354,7 +354,12 @@ We present a full modeling example as a daily warmup.
 * Video: [Click here](https://github.com/physicell-training/ws2023/tree/main/sessions/session_11/codes)
 
 ### 12:00-18:15. Team Time 3.  
-Work with your team in Gather / Zoom. Schedule breaks on your own as needed. 
+Work with your team in Gather / Zoom. Schedule breaks on your own as needed. Prepare presentations. 
+
+#### Presentation templates: 
+Adapt as you see best:
+* Presentation template (Modeling projects): [click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws2023_final_presentation_template(model).pptx)
+* Presentation template (Tools projects): [click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws2023_final_presentation_template(tool).pptx)
 
 ### 12:00-13:30. PhysiCell Governance (optional and by invitation only)
 Discuss transition to a community governance model. 
@@ -372,13 +377,15 @@ Please use Gather to continue getting to know your fellow participants.
 ### 11:00-14:00. Final Team Presentations.  
 Present your team's project results for the community and for feedback and scoring. Detailed schedule TBA. 
 
+
+
 25 minute presetation, with 5 minutes of Q&A. 
 
 #### Presentation templates: 
 Adapt as you see best:
-* Model presentation template:
-* Tool presentation template:
-* 
+* Presentation template (Modeling projects): [click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws2023_final_presentation_template(model).pptx)
+* Presentation template (Tools projects): [click here](https://github.com/physicell-training/ws2023/blob/main/templates/PhysiCell_ws2023_final_presentation_template(tool).pptx)
+  
 ### 14:00-14:30. Judges' Discussion. 
 
 ### 14:30-15:00. Announce results and farewell
