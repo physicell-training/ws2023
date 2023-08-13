@@ -171,7 +171,7 @@ Take a virtual coffee break in Gather to mix and meet with your fellow participa
 Learn to load, manipulate, and explore full PhysiCell outputs in Python using PhysiCell Data Loader. 
 * Presenter: Elmar Bucher
 * Slides: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_07/PhysiCell_ws2023_Session07_pcdl.pdf)
-* Code: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_06/PhysiCell_ws2023_Session06.pdf)
+* Code: [Click here](https://github.com/physicell-training/ws2023/blob/main/sessions/session_07/codes/session07_ws2023_pcdl.md)
 * Video: [Click here](https://youtu.be/zx1CdfezDTU)
 
 ### 14:00-14:30. Break
