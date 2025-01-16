@@ -6,7 +6,7 @@ response = requests.get("https://api.github.com/repos/MathCancer/PhysiCell/relea
 release_name_str = response.json()["name"]
 print(release_name_str)
 print(release_name_str.split())
-vnum = release_name_str.split()[1]
+vnum = release_name_str.split()[0]
 print("vnum=",vnum)  # e.g., vnum= 1.10.4
 
 remote_url = 'https://github.com/MathCancer/PhysiCell/releases/download/' + vnum + '/PhysiCell_V.' + vnum + '.zip'
